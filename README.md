@@ -1,2 +1,0 @@
-# QuantTrader
-Algorithmic trading
